@@ -2,7 +2,7 @@
 
 def doSomething():
 	example = {'a','b','c'};
-	if 9 in example:
+	if 'c' in example:
 		x = True
 	else:
 		x = False
